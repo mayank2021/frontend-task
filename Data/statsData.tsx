@@ -14,7 +14,7 @@ export const statsData = [
     key: 2,
     img: Star,
     title: "1200",
-    description: "Experience Points",
+    description: "Skill Points",
   },
   {
     key: 3,

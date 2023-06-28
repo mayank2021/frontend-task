@@ -65,12 +65,13 @@ export const homeEducationData = [
   {
     key: 2,
     img: School,
-    title: "Mister Bim High School",
-    location: "Atlanta, GA",
-    degree: "",
-    startDate: "September 2016",
-    endDate: "2020",
-    description: "",
+    title: "Harvard university 2",
+    location: "Cambridge, GA ",
+    degree: "Bachelor degree, Computer Science(Bsc)",
+    startDate: "May 2020",
+    endDate: "Present",
+    description:
+      "Emory Admissions Fellow; assisted Dean of Admissions with student applications and Emory’s marketing strategy in the roll out of the university’s new website",
     homeEducation: true,
   },
 ];
